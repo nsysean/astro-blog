@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://nsysean.github.io',
+    site: 'https://ensy.zip',
     integrations: [
         mdx(),
         sitemap(),
