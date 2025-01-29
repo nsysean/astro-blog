@@ -46,6 +46,10 @@ const siteConfig: SiteConfig = {
             text: 'Home',
             href: '/'
         },
+        {  
+            text: 'About',
+            href: '/about'
+        },
         {
             text: 'Posts',
             href: '/posts'
