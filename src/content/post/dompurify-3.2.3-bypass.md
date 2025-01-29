@@ -12,8 +12,6 @@ isFeatured: true
 
 I found a bypass in DOMPurify which allows for sanitized HTML to cause XSS on the first day of the Chinese New Year! Here is how.
 
-*findings hugely inspired by [Yaniv Nizry's blog](https://yaniv-git.github.io/2024/12/08/DOMPurify%203.2.1%20Bypass%20(Non-Default%20Config)/), go check it out* 
-
 ### Explanation
 From looking at the previous few DOMPurify bypasses, a common theme can be spotted: the payloads are usually a combination of mXSS + comments in attribute values.
 

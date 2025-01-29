@@ -12,6 +12,7 @@ I'm Sean, a secondary school student from Hong Kong, who's interested in all thi
 
 ## Awards
 - Finals & 1st place in heats - HKCERT CTF 2024 Secondary Division
+- Silver - Hong Kong Olympiad in Informatics Junior 2024
 - 8th Individual - AlpacaHack Round 2 (Web)
 - First place - NuttyShell CTF 2024 Secondary Division
 - Second place - HKCERT CTF 2023 Secondary Division
