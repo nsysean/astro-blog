@@ -13,8 +13,8 @@ const seoSchema = z.object({
     pageType: z.enum(['website', 'article']).default('website')
 });
 
-const blog = defineCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/blog' }),
+const post = defineCollection({
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/post' }),
     schema: z.object({
         title: z.string(),
         excerpt: z.string().optional(),
@@ -45,4 +45,4 @@ const projects = defineCollection({
     })
 });
 
-export const collections = { blog, pages, projects };
+export const collections = { post, pages, projects };
