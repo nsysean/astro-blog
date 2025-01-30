@@ -77,7 +77,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hey!',
-        text: "I'm **Sean**, otherwise known as *ensy* or *nsysean*, a programmer and CTF player from Hong Kong.",
+        text: "I'm **Sean**, otherwise known as *ensy* or *nsysean*, a programmer and CTF player from Hong Kong. [Learn more about me.](/about)",
     },
     postsPerPage: 8,
     projectsPerPage: 8
