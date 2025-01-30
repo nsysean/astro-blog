@@ -5,7 +5,10 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Thank you for reaching out! Feel free to get in touch through any of the methods below:
+
+_Email:_
+Reach me at [ensy.zip@gmail.com](mailto:ensy.zip@gmail.com), and I'll do my best to respond as soon as possible.
 
 _Discord:_
 I regularly use [Discord](https://discord.com)! Find me at `@ensy.zip` or [visit this link to my profile](https://discord.com/users/603448257653374976).
