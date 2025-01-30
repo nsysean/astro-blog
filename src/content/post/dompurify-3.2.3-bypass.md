@@ -78,5 +78,6 @@ DOMPurify.sanitize(
 ```
 
 ### References
+- https://github.com/cure53/DOMPurify/releases/tag/3.2.4
 - https://github.com/cure53/DOMPurify/commit/d18ffcb554e0001748865da03ac75dd7829f0f02
 - https://yaniv-git.github.io/2024/12/08/DOMPurify%203.2.1%20Bypass%20(Non-Default%20Config)/
